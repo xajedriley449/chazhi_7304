@@ -1,0 +1,7 @@
+{
+    "seq_len": 10,
+    "data_dir": "input_txyz\\e_data\\matrix_npy\\xy",
+    "cov1_dir": "input_txyz\\t_cov1\\matrix_npy\\xy",
+    "cov2_dir": "input_txyz\\xyz_cov2\\matrix_npy\\xy",
+    "pretrained_model": "output_txyz_cp-7303\\cov3\\xy_pred_npy_simvpv2\\best_model.pth"
+}
